@@ -49,7 +49,7 @@ def send_mail(attachment):
 
 
 me = "yathisolutionstsiic@gmail.com"
-my_password = r"yathi12345"
+my_password = r"******"
 you = "anvoruganti@gmail.com"
 
 
